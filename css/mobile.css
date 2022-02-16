@@ -64,38 +64,3 @@
   }
 
 }
-
-/* @media (max-width: 500px) {
-
-  .page-container {
-    display: grid;
-    grid-template-columns: 1fr;
-    margin: 2rem 0;
-    gap: 1.5rem;
-  }
-
-  #main-footer .footer-container {
-    display: grid; 
-    grid-template-columns: 1fr;
-    gap: 1.5rem;
-  }
-
-  #main-footer .footer-container>*:last-child {
-    background: #444;
-    grid-column: 1;
-    padding: .5rem;
-    text-align: center;
-    font-size: 0.75rem;
-  }
-
-  #main-footer img {
-    width: 150px;
-    align-self: center;
-  }
-
-  #showcase .showcase-container,
-  #home-articles .articles-container {
-    grid-template-columns: 1fr;
-  }
-
-} */
